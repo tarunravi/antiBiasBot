@@ -1,0 +1,4 @@
+.Topics{
+    flex: .40;
+    border-right: 2px solid var(--lightBlack); 
+}
