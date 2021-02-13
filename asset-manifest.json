@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/antiBiasBot/static/css/main.d8ff0345.chunk.css",
+    "main.css": "/antiBiasBot/static/css/main.cf418dd7.chunk.css",
     "main.js": "/antiBiasBot/static/js/main.f3a3f4fa.chunk.js",
     "main.js.map": "/antiBiasBot/static/js/main.f3a3f4fa.chunk.js.map",
     "runtime-main.js": "/antiBiasBot/static/js/runtime-main.3be39df2.js",
@@ -10,13 +10,13 @@
     "static/js/3.67939d4e.chunk.js": "/antiBiasBot/static/js/3.67939d4e.chunk.js",
     "static/js/3.67939d4e.chunk.js.map": "/antiBiasBot/static/js/3.67939d4e.chunk.js.map",
     "index.html": "/antiBiasBot/index.html",
-    "static/css/main.d8ff0345.chunk.css.map": "/antiBiasBot/static/css/main.d8ff0345.chunk.css.map",
+    "static/css/main.cf418dd7.chunk.css.map": "/antiBiasBot/static/css/main.cf418dd7.chunk.css.map",
     "static/js/2.e434c3d1.chunk.js.LICENSE.txt": "/antiBiasBot/static/js/2.e434c3d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3be39df2.js",
     "static/js/2.e434c3d1.chunk.js",
-    "static/css/main.d8ff0345.chunk.css",
+    "static/css/main.cf418dd7.chunk.css",
     "static/js/main.f3a3f4fa.chunk.js"
   ]
 }
