@@ -1,4 +1,71 @@
 .Topics{
     flex: .40;
     border-right: 2px solid var(--lightBlack); 
+    overflow-x: scroll;
+}
+
+.topHeader{
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1px 0px 1px 0px;
+    border-bottom: 2px solid var(--lightBlack); 
+    background-color: var(--darkBlack);
+    overflow-y: scroll;
+    overflow-x: scroll;
+    /*Enables the "topHeader" header to stay in place and not move */
+    position: sticky;
+    
+    top:0;
+    /*Covers up the text that scrolls under */
+    z-index: 100;
+}
+
+.topHeader > h1{
+    color: white;
+    padding-left: 15px;
+    font-size: 30px;
+}
+
+.TopicLists{
+    position: sticky;
+    height: 94vh;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+/*Removes all Scroll bars */
+
+/*Remove the scroll bar for Chrome, Safari and Opera */
+.Topics::-webkit-scrollbar{
+    display: none;
+}
+
+/*Removes the scroll bar for IE, Edge and Firefox*/
+.Topics{
+    -ms-overflow-style:none;
+    scrollbar-width: none;
+}
+
+/*Remove the scroll bar for Chrome, Safari and Opera */
+.topHeader::-webkit-scrollbar{
+    display: none;
+}
+
+/*Removes the scroll bar for IE, Edge and Firefox*/
+.topHeader{
+    -ms-overflow-style:none;
+    scrollbar-width: none;
+}
+
+/*Remove the scroll bar for Chrome, Safari and Opera */
+.TopicLists::-webkit-scrollbar{
+    display: none;
+}
+
+/*Removes the scroll bar for IE, Edge and Firefox*/
+.TopicLists{
+    -ms-overflow-style:none;
+    scrollbar-width: none;
 }
