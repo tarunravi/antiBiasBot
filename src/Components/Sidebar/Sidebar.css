@@ -2,3 +2,30 @@
     flex: .30;
     border-right: 2px solid var(--lightBlack); 
 }
+
+.topBar{
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid var(--lightBlack); 
+}
+
+.topBar > h1{
+    color: white;
+    padding-left: 15px;
+    font-size: 30px;
+}
+
+.options{
+    height: 93vh;
+}
+
+.divider{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+    background-color: var(--lightBlack);
+    height: 5px;
+    border-radius: 100px;
+}
