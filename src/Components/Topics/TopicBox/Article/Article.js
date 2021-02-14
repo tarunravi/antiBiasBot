@@ -14,7 +14,7 @@ export default function Article({articleImageLink, publisherIcon, bias, artileTi
                     </div>
                 </div>
                 <div className="articleRight">
-                    <img src={articleImageLink}></img>
+                    <img src={articleImageLink} alt={artileTitle}></img>
                 </div>
             </div>
         </a>
