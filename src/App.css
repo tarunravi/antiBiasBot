@@ -3,8 +3,8 @@
 }
 
 .app {
-  --darkBlack: rgb(51, 51, 51);
-  --lightBlack: rgb(84, 84, 84);
+  --darkBlack: rgb(51, 51, 51); /*333333*/
+  --lightBlack: rgb(84, 84, 84); /*545454*/
   display: flex;
   overflow-x: hidden;
   overflow-y: hidden;
