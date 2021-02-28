@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/antiBiasBot/static/css/main.4577073f.chunk.css",
-    "main.js": "/antiBiasBot/static/js/main.a69058a5.chunk.js",
-    "main.js.map": "/antiBiasBot/static/js/main.a69058a5.chunk.js.map",
+    "main.css": "/antiBiasBot/static/css/main.d56344ba.chunk.css",
+    "main.js": "/antiBiasBot/static/js/main.7602aabd.chunk.js",
+    "main.js.map": "/antiBiasBot/static/js/main.7602aabd.chunk.js.map",
     "runtime-main.js": "/antiBiasBot/static/js/runtime-main.cc695b2d.js",
     "runtime-main.js.map": "/antiBiasBot/static/js/runtime-main.cc695b2d.js.map",
     "static/js/2.2d1f6b0b.chunk.js": "/antiBiasBot/static/js/2.2d1f6b0b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.eebbd5d2.chunk.js": "/antiBiasBot/static/js/3.eebbd5d2.chunk.js",
     "static/js/3.eebbd5d2.chunk.js.map": "/antiBiasBot/static/js/3.eebbd5d2.chunk.js.map",
     "index.html": "/antiBiasBot/index.html",
-    "static/css/main.4577073f.chunk.css.map": "/antiBiasBot/static/css/main.4577073f.chunk.css.map",
+    "static/css/main.d56344ba.chunk.css.map": "/antiBiasBot/static/css/main.d56344ba.chunk.css.map",
     "static/js/2.2d1f6b0b.chunk.js.LICENSE.txt": "/antiBiasBot/static/js/2.2d1f6b0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc695b2d.js",
     "static/js/2.2d1f6b0b.chunk.js",
-    "static/css/main.4577073f.chunk.css",
-    "static/js/main.a69058a5.chunk.js"
+    "static/css/main.d56344ba.chunk.css",
+    "static/js/main.7602aabd.chunk.js"
   ]
 }
