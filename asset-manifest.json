@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/antiBiasBot/static/css/main.7c35a8c9.chunk.css",
-    "main.js": "/antiBiasBot/static/js/main.3d3bfbea.chunk.js",
-    "main.js.map": "/antiBiasBot/static/js/main.3d3bfbea.chunk.js.map",
+    "main.js": "/antiBiasBot/static/js/main.f446fa7b.chunk.js",
+    "main.js.map": "/antiBiasBot/static/js/main.f446fa7b.chunk.js.map",
     "runtime-main.js": "/antiBiasBot/static/js/runtime-main.cc695b2d.js",
     "runtime-main.js.map": "/antiBiasBot/static/js/runtime-main.cc695b2d.js.map",
-    "static/js/2.d1500d2b.chunk.js": "/antiBiasBot/static/js/2.d1500d2b.chunk.js",
-    "static/js/2.d1500d2b.chunk.js.map": "/antiBiasBot/static/js/2.d1500d2b.chunk.js.map",
+    "static/js/2.2d1f6b0b.chunk.js": "/antiBiasBot/static/js/2.2d1f6b0b.chunk.js",
+    "static/js/2.2d1f6b0b.chunk.js.map": "/antiBiasBot/static/js/2.2d1f6b0b.chunk.js.map",
     "static/js/3.eebbd5d2.chunk.js": "/antiBiasBot/static/js/3.eebbd5d2.chunk.js",
     "static/js/3.eebbd5d2.chunk.js.map": "/antiBiasBot/static/js/3.eebbd5d2.chunk.js.map",
     "index.html": "/antiBiasBot/index.html",
     "static/css/main.7c35a8c9.chunk.css.map": "/antiBiasBot/static/css/main.7c35a8c9.chunk.css.map",
-    "static/js/2.d1500d2b.chunk.js.LICENSE.txt": "/antiBiasBot/static/js/2.d1500d2b.chunk.js.LICENSE.txt"
+    "static/js/2.2d1f6b0b.chunk.js.LICENSE.txt": "/antiBiasBot/static/js/2.2d1f6b0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc695b2d.js",
-    "static/js/2.d1500d2b.chunk.js",
+    "static/js/2.2d1f6b0b.chunk.js",
     "static/css/main.7c35a8c9.chunk.css",
-    "static/js/main.3d3bfbea.chunk.js"
+    "static/js/main.f446fa7b.chunk.js"
   ]
 }
