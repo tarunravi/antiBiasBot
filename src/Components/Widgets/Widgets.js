@@ -19,7 +19,6 @@ function Widgets() {
     return (
         <div className="Widgets">
             <div className="weatherBox">
-               
                 {details.latitude ? <Weather lon={details.longitude} lat={details.latitude}name={details.city} /> : ""}
             </div>
         </div>
