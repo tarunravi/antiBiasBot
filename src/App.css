@@ -11,3 +11,11 @@
   height: 100vh;
   background-color: var(--darkBlack);
 }
+
+
+
+@media screen and (max-width: 1265px){
+  .Sidebar{
+    display: none;
+  }
+}   

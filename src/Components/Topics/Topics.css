@@ -4,6 +4,10 @@
     overflow-x: scroll;
 }
 
+.mobile{
+    display: none;
+}
+
 .topHeader{
     height: 5vh;
     display: flex;
@@ -69,3 +73,19 @@
     -ms-overflow-style:none;
     scrollbar-width: none;
 }
+
+
+@media screen and (max-width: 1265px){
+    .Topics{
+        flex: 1 !important;
+        border-right: 0px solid var(--lightBlack); 
+    }
+
+    .mobile{
+        display: block;
+    }
+
+    .desktop{
+        display: none;
+    }
+  }   

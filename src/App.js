@@ -8,7 +8,6 @@ function App() {
     <div class="app">
         <Sidebar />
         <Topics />
-        <Widgets />
     </div>
   );
 }

@@ -5,7 +5,8 @@ function Topics() {
     return (
         <div className="Topics">
             <div className="topHeader">
-                <h1>Hear both side's perspective</h1>
+                <h1 className="desktop">Hear both side's perspective</h1>
+                <h1 className="mobile">Anti Bias Bot</h1>
             </div>
             <div className="TopicLists">
                 <TopicBox topicName="Hi" 
